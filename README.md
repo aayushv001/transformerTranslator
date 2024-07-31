@@ -1,0 +1,1 @@
+This project is a transformer implementation from scratch for the task of translation. The PyTorch Transformer translates English to Hindi and the Tensorflow Transformer translates Portugese to English. This project was a foray into understanding how the attention mechanisms work in all the transformers that we use to better understand their quirks and subtleties.
